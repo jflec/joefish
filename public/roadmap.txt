@@ -1,0 +1,4 @@
+Priority
+- Add Cast and Reel logic (Click to cast, slider pops up, click again to select strength, click to cancel.)
+- Cast strength (10% Perfect, 20% Awesome, 40% Good, 30% Okay)
+- Cast strength adds a multiplier to fish rarity
